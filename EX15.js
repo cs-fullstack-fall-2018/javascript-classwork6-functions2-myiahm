@@ -16,4 +16,12 @@ function aboveOrBelow(favNum)
     {
         alert("Above");
     }
+    else if (favNum === 100)
+    {
+        alert("equals 100")
+    }
+    else
+        {
+            alert("Didnt enter a number ")
+        }
 }
